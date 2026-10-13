@@ -1,0 +1,148 @@
+{
+  "dataset": "20 synthetic queries authored from the same demo runbooks; not an independent benchmark",
+  "cases": 20,
+  "top1_accuracy": 1.0,
+  "recall_at_3": 1.0,
+  "results": [
+    {
+      "question": "CPU overheating and fan alarm",
+      "expected": "RB-001",
+      "actual": "RB-001",
+      "top1_correct": true,
+      "top3_correct": true
+    },
+    {
+      "question": "PSU power supply redundancy lost",
+      "expected": "RB-002",
+      "actual": "RB-002",
+      "top1_correct": true,
+      "top3_correct": true
+    },
+    {
+      "question": "Network switch port link down",
+      "expected": "RB-003",
+      "actual": "RB-003",
+      "top1_correct": true,
+      "top3_correct": true
+    },
+    {
+      "question": "Linux filesystem disk space full",
+      "expected": "RB-004",
+      "actual": "RB-004",
+      "top1_correct": true,
+      "top3_correct": true
+    },
+    {
+      "question": "IAM access denied permission",
+      "expected": "RB-005",
+      "actual": "RB-005",
+      "top1_correct": true,
+      "top3_correct": true
+    },
+    {
+      "question": "Kubernetes EKS pod deployment image failure",
+      "expected": "RB-006",
+      "actual": "RB-006",
+      "top1_correct": true,
+      "top3_correct": true
+    },
+    {
+      "question": "Liquid cooling leak flow alarm",
+      "expected": "RB-007",
+      "actual": "RB-007",
+      "top1_correct": true,
+      "top3_correct": true
+    },
+    {
+      "question": "Decommission drive erase report disposal",
+      "expected": "RB-008",
+      "actual": "RB-008",
+      "top1_correct": true,
+      "top3_correct": true
+    },
+    {
+      "question": "REST API HTTP timeout integration failure",
+      "expected": "RB-009",
+      "actual": "RB-009",
+      "top1_correct": true,
+      "top3_correct": true
+    },
+    {
+      "question": "Incident ticket SLA handover escalation",
+      "expected": "RB-010",
+      "actual": "RB-010",
+      "top1_correct": true,
+      "top3_correct": true
+    },
+    {
+      "question": "Fan status and airflow obstructions",
+      "expected": "RB-001",
+      "actual": "RB-001",
+      "top1_correct": true,
+      "top3_correct": true
+    },
+    {
+      "question": "Power feeds and failed supply identifier",
+      "expected": "RB-002",
+      "actual": "RB-002",
+      "top1_correct": true,
+      "top3_correct": true
+    },
+    {
+      "question": "Cable labels and patch-panel mapping",
+      "expected": "RB-003",
+      "actual": "RB-003",
+      "top1_correct": true,
+      "top3_correct": true
+    },
+    {
+      "question": "Application log growth retention filesystem",
+      "expected": "RB-004",
+      "actual": "RB-004",
+      "top1_correct": true,
+      "top3_correct": true
+    },
+    {
+      "question": "Explicit deny role policies least privilege",
+      "expected": "RB-005",
+      "actual": "RB-005",
+      "top1_correct": true,
+      "top3_correct": true
+    },
+    {
+      "question": "Container readiness probes registry permissions",
+      "expected": "RB-006",
+      "actual": "RB-006",
+      "top1_correct": true,
+      "top3_correct": true
+    },
+    {
+      "question": "Coolant pressure leak notify facilities",
+      "expected": "RB-007",
+      "actual": "RB-007",
+      "top1_correct": true,
+      "top3_correct": true
+    },
+    {
+      "question": "Chain of custody storage media retirement",
+      "expected": "RB-008",
+      "actual": "RB-008",
+      "top1_correct": true,
+      "top3_correct": true
+    },
+    {
+      "question": "Endpoint response code correlation identifier",
+      "expected": "RB-009",
+      "actual": "RB-009",
+      "top1_correct": true,
+      "top3_correct": true
+    },
+    {
+      "question": "Assign owner overdue incidents shift handover",
+      "expected": "RB-010",
+      "actual": "RB-010",
+      "top1_correct": true,
+      "top3_correct": true
+    }
+  ]
+}

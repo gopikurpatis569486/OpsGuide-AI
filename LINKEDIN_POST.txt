@@ -1,0 +1,9 @@
+I am adding OpsGuide AI to my portfolio: a local incident knowledge assistant that connects AI retrieval with cloud and infrastructure troubleshooting.
+
+The prototype searches 10 synthetic runbooks, ranks evidence with TF-IDF and cosine similarity, and returns source-backed extractive guidance. It also declines questions when relevant evidence is missing.
+
+The project includes a Python JSON API, browser dashboard, automated tests, and a 20-query synthetic retrieval evaluation. It demonstrates the retrieval and grounding stage of a RAG-style workflow; LLM generation is a future extension.
+
+This is an independent portfolio lab using synthetic material. My focus is on traceable responses, diagnostic workflows, and measurable validation.
+
+#AIEngineering #Python #RAG #CloudEngineering #PortfolioProject

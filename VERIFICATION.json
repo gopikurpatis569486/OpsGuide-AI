@@ -1,0 +1,7 @@
+{
+  "unit_tests_passed": 5,
+  "http_integration": "passed",
+  "javascript_syntax": "passed",
+  "browser_rendering": "not verified; browser runtime unavailable",
+  "data": "synthetic demo data"
+}
